@@ -22,7 +22,7 @@ The server component is responsible for handling HTTP requests and managing the 
 3. Access the client application in your browser at  http://localhost:5173/.
 
 ## Technologies Used
-Express.js
-React.js
-SQLite
-Axios (for HTTP requests)
+- Express.js
+- React
+- SQLite
+- Axios (for HTTP requests)
